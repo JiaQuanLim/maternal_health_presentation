@@ -1,0 +1,18 @@
+---
+title: "Maternal Health Classification"
+author: "Alex Wong, Joseph Lim, Nelli Hovhannisyan, Shannon Pflueger"
+format:
+  revealjs:
+    pdf: true
+output: revealjs
+---
+
+## Model 
+
+- Turn off alarm
+- Get out of bed
+
+## Going to sleep
+
+- Get in bed
+- Count sheep
